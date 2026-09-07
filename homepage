@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1>Katie Jordan<h1>
+  <h2>Business Admin and Strat Comm Student</h2>
+
+  <h3>About Me</h3>
+  <p>My major is in business administration and strategic communications. I've been going to the University of Utah to get my bachelor's degrees. I'm looking forward to graduating.</p>
+
+  <h3>Skills</h3>
+  <ul>
+    <li>HTML- minimal experience</li>
+    <li>Microsoft Excel - advanced experience</li>
+    <li>AI Prompt Engineering - minimal experience</li>
+  </ul>
+
+  <h3>Projects</h3>
+  <p>Project1: Designing a website during my Web Design Class. I have no more projects other than this</p>
+
+  <h3>Contact</h3>
+  <p>Email: u1393407@utah.edu</p>
+  
+  <h4>Resume</h4>
+  <p> Resume coming soon</p>
+</body>
+</html>
